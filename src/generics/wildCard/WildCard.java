@@ -6,6 +6,7 @@ import java.util.List;
 public class WildCard {
     public static void execute() {
         // 非境界ワイルドカードなのでなんでも追加可能
+        // addは不可、取り出す際はObject型で取り出す
         List<?> wildCards = List.of(new Apple(), "いちご", 1);
         System.out.println("=== 非境界ワイルドカード ===");
         wildCards.forEach(wildCard-> System.out.println(wildCard.toString()));

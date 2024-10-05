@@ -1,5 +1,6 @@
 package generics;
 
+import generics.container.Container;
 import generics.generic.Generic;
 import generics.method.Method;
 import generics.wildCard.WildCard;
@@ -11,5 +12,6 @@ public class GenericsExecute {
         Generic.execute();
         WildCard.execute();
         Method.execute();
+        Container.execute();
     }
 }

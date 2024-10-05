@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8171ae6-0a06-443e-b9a9-73d2e600adce" name="変更" comment="">
-      <change afterPath="$PROJECT_DIR$/src/generics/method/Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/method/Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/container/Container.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/container/Favorites.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/generics/GenericsExecute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/GenericsExecute.java" afterDir="false" />
     </list>
@@ -87,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728129663254</updated>
-      <workItem from="1728129664128" duration="12114000" />
+      <workItem from="1728129664128" duration="13301000" />
     </task>
     <servers />
   </component>

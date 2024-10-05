@@ -1,7 +1,7 @@
-import generics.wildCard.WildCard;
+import generics.GenericsExecute;
 
 public class Main {
     public static void main(String[] args) {
-        WildCard.execute();
+        GenericsExecute.execute();
     }
 }

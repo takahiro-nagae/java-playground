@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8171ae6-0a06-443e-b9a9-73d2e600adce" name="変更" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/generic/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/generic/Banana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/generic/BlueApple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/generic/Food.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/generic/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/generic/WildCard.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics/generic/NonNullList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/generic/NonNullList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +23,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
@@ -85,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728129663254</updated>
-      <workItem from="1728129664128" duration="8437000" />
+      <workItem from="1728129664128" duration="11118000" />
     </task>
     <servers />
   </component>

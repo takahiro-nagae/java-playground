@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8171ae6-0a06-443e-b9a9-73d2e600adce" name="変更" comment="">
+      <change afterPath="$PROJECT_DIR$/src/generics/method/Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/method/Methods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generics/generic/NonNullList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/generic/NonNullList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics/GenericsExecute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/GenericsExecute.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +49,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "プロジェクト",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true",
     "アプリケーション.Main.executor": "Run"
@@ -82,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728129663254</updated>
-      <workItem from="1728129664128" duration="11118000" />
+      <workItem from="1728129664128" duration="12114000" />
     </task>
     <servers />
   </component>

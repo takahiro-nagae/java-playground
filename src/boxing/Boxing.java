@@ -21,6 +21,27 @@ public class Boxing {
         endTime = System.currentTimeMillis();
         executionTime = endTime - startTime;
         System.out.println("実行時間: " + executionTime + " ミリ秒");
+
+        System.out.println("=== 文字列結合 ===");
+        int count = 100000;
+        startTime = System.currentTimeMillis();
+        String str = "";
+        for (int i = 0; i < count; i++) {
+            str += i;
+        }
+        endTime = System.currentTimeMillis();
+        executionTime = endTime - startTime;
+        System.out.println("実行時間: " + executionTime + " ミリ秒");
+
+        System.out.println("=== StringBuilder ===");
+        startTime = System.currentTimeMillis();
+        StringBuilder sb = new StringBuilder();
+        for (int i = 0; i < count; i++) {
+            sb.append(i);
+        }
+        endTime = System.currentTimeMillis();
+        executionTime = endTime - startTime;
+        System.out.println("実行時間: " + executionTime + " ミリ秒");
     }
 
 }

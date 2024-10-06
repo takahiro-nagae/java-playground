@@ -1,4 +1,5 @@
 import annotation.RunTest;
+import boxing.Boxing;
 import generics.GenericsExecute;
 import lambda.Lambda;
 
@@ -7,5 +8,6 @@ public class Main {
         GenericsExecute.execute();
         RunTest.execute("annotation.Sample");
         Lambda.execute();
+        Boxing.execute();
     }
 }
